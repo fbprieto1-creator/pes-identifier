@@ -1,0 +1,4 @@
+Pillow
+pyembroidery
+openai
+anthropic
